@@ -63,14 +63,7 @@ graph TD;
     <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-11-1175036.png"/> </a>
     <a style="padding-right:8px;" href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-file-2942647-2427614.png"/> </a>
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.apache.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-apache-8-1174973.png"/> </a></p>
-    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
-    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
-    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
-    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
-    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
-
-
+    <a style="padding-right:8px;" href="https://www.apache.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-apache-8-1174973.png"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
