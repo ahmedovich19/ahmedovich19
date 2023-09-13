@@ -23,13 +23,13 @@ graph TD;
 ```
 - 👯 I’m looking to collaborate on **Machine learning and Web Developments Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio]([https://github.com/NourEldinMoustafa](https://github.com/ahmedovich19))**
+- 👨‍💻 All of my projects are available at **[My Portfolio]([https://github.com/ahmedovich19](https://github.com/ahmedovich19))**
 
 - 📫 How to reach me **[My personal Email](mailto:ahmed_hamdy19593@yahoo.com)**
 
 - ⚡ Fun fact **chess player.**
 
--  ![GitHub Contributors Image](https://contrib.rocks/image?repo=NourEldinMostafa/github-readme-streak-stats)
+-  ![GitHub Contributors Image](https://contrib.rocks/image?repo=ahmedovich19/github-readme-streak-stats)
 
 ## 🚀 Languages and Tools:
 
@@ -74,8 +74,8 @@ graph TD;
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/NourEldinMoustafa/github-readme-streak-stats"><img alt="Ahmed Hamdy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NourEldinMoustafa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/NourEldinMoustafa/github-readme-stats"><img alt="NourEldinMoustafa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourEldinMoustafa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/NourEldinMoustafa/github-readme-streak-stats"><img alt="Ahmed Hamdy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ahmedovich19&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/ahmedovich19/github-readme-stats"><img alt="ahmedovich19's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedovich19&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
@@ -83,7 +83,7 @@ graph TD;
 <br/>
 <br/>
 
-<a href="https://github.com/NourEldinMoustafa/github-readme-activity-graph"><img alt="NourEldinMoustafa's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=NourEldinMoustafa&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/NourEldinMoustafa/github-readme-activity-graph"><img alt="ahmedovich19's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ahmedovich19&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 <br/>
@@ -100,4 +100,4 @@ graph TD;
 <a href="https://github.com/NourEldinMoustafa/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
-<a href="https://github.com/NourEldinMoustafa?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ahmedovich19?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
