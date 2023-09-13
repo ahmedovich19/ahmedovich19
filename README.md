@@ -92,7 +92,7 @@ graph TD;
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/ahmedovich19/github-profile-views-counter">
+<a href="https://github.com/ahmedovich19/">
     <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/ahmedovich19?tab=followers"><img src="https://img.shields.io/github/followers/ahmedovich19?label=Followers&style=social" alt="GitHub Badge"></a>
