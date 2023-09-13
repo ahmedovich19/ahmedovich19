@@ -49,18 +49,18 @@ graph TD;
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
-    <a  width="40" height="40 href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=108784&format=png"/> </a>
-    <a  width="40" height="40 href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png"/> </a> 
-    <a  width="40" height="40 href="https://vuejs.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png"/> </a> 
-    <a  width="40" height="40 href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png"/> </a> 
-    <a  width="40" height="40 href="https://www.php.net/" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/php-2752101-2284918.png"/> </a> 
-    <a  width="40" height="40 href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=13664&format=png"/> </a>
-    <a  width="40" height="40 href="https://laravel.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-226015.png"/> </a>
-    <a  width="40" height="40 href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png"/> </a>
-    <a  width="40" height="40 href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-11-1175036.png"/> </a>
-    <a  width="40" height="40 href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-file-2942647-2427614.png"/> </a>
-    <a  width="40" height="40 href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png"/> </a>
-    <a  width="40" height="40 href="https://www.apache.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-apache-8-1174973.png"/> </a>
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=108784&format=png" width="48" height="48"/> </a>
+    <a href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" width="48" height="48"/> </a> 
+    <a  href="https://vuejs.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png" width="48" height="48"/> </a> 
+    <a  href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png" width="48" height="48"/> </a> 
+    <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/php-2752101-2284918.png"width="48" height="48"/> </a> 
+    <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=13664&format=png" width="48" height="48"/> </a>
+    <a href="https://laravel.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-226015.png" width="48" height="48"/> </a>
+    <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png" width="48" height="48"/> </a>
+    <a  href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-11-1175036.png" width="48" height="48"/> </a>
+    <a  href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-file-2942647-2427614.png" width="48" height="48"/> </a>
+    <a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png" width="48" height="48"/> </a>
+    <a  href="https://www.apache.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-apache-8-1174973.png" width="48" height="48"/> </a>
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
