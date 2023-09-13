@@ -39,7 +39,6 @@ graph TD;
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>    
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a style="padding-right:8px;" href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
@@ -53,6 +52,26 @@ graph TD;
     <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
     <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+    
+    <a style="padding-right:8px;" href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=108784&format=png"/> </a>
+    <a style="padding-right:8px;" href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png"/> </a> 
+    <a style="padding-right:8px;" href="https://vuejs.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png"/> </a> 
+    <a style="padding-right:8px;" href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png"/> </a> 
+    <a style="padding-right:8px;" href="https://www.php.net/" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/php-2752101-2284918.png"/> </a> 
+    <a style="padding-right:8px;" href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=13664&format=png"/> </a>
+    <a style="padding-right:8px;" href="https://laravel.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-laravel-226015.png"/> </a>
+    <a style="padding-right:8px;" href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-flask-51-285137.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-django-11-1175036.png"/> </a>
+    <a style="padding-right:8px;" href="" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/sql-file-2942647-2427614.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-3521596-2945040.png"/> </a>
+    <a style="padding-right:8px;" href="https://www.apache.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-apache-8-1174973.png"/> </a>
+    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
+    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
+    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
+    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
+    <a style="padding-right:8px;" href="" target="_blank"> <img src=""/> </a>
+
+
 </p>
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
