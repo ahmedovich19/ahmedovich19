@@ -89,13 +89,13 @@ graph TD;
 ## Connect with me:
 <p align="left">
 
-<a href = "linkedin.com/in/ahmed-hamdy-al-kashky-15b13695/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://linkedin.com/in/ahmed-hamdy-al-kashky-15b13695/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/ahmedovich19"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
 ## ❤ Views and Followers
 <a href="https://github.com/NourEldinMoustafa/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=ahmedovich19">
+    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
 </a>
 <a href="https://github.com/ahmedovich19?tab=followers"><img src="https://img.shields.io/github/followers/ahmedovich19?label=Followers&style=social" alt="GitHub Badge"></a>
