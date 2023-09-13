@@ -2,13 +2,15 @@
 <a href="#"><img width="30%" height="auto" src="https://i.imgur.com/nBGdrNe.png " height="90px"/></a>
 <a href="#"><img width="30%" height="auto" src="https://i.imgur.com/fCrmHuL.png " height="90px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm NourEldin</h1>
-<h3 align="center">I'm an  Ai engineer,researcher.</h3>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Hamdy</h1>
+<h3 align="center">I'm an  Ai engineer,Web developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Dental filling detection using yolov5,v6,resnet](https://www.coursera.org/specializations/deep-learning)**
+- 🔭 I am a highly motivated Ai Engineer and Web Developer who has a track record of success creating apps that are both well-received and 
+commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing apps to keep people enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely 
+perfect.
 
 - 🌱 I’m currently learning :
 ```mermaid
@@ -19,11 +21,11 @@ graph TD;
     ImageProcessing--> ComputerVision ;
 
 ```
-- 👯 I’m looking to collaborate on **Computer vision Projects**
+- 👯 I’m looking to collaborate on **Machine learning and Web Developments Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/NourEldinMoustafa)**
+- 👨‍💻 All of my projects are available at **[My Portfolio]([https://github.com/NourEldinMoustafa](https://github.com/ahmedovich19))**
 
-- 📫 How to reach me **[My personal Email](mailto:iosnoureldinmoustafa@gmail.com)**
+- 📫 How to reach me **[My personal Email](mailto:ahmed_hamdy19593@yahoo.com)**
 
 - ⚡ Fun fact **chess player.**
 
@@ -37,7 +39,6 @@ graph TD;
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>    
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://developer.apple.com/swift/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/swift.png"/> </a> 
     <a style="padding-right:8px;" href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a> 
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
@@ -59,14 +60,14 @@ graph TD;
 
 <p align="center">
     <a href="https://github.com/NourEldinMoustafa/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="NourEldinMoustafa's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NourEldinMoustafa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Ahmed Hamdy's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=NourEldinMoustafa&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/NourEldinMoustafa/github-readme-streak-stats"><img alt="NourEldinMoustafa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NourEldinMoustafa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/NourEldinMoustafa/github-readme-streak-stats"><img alt="Ahmed Hamdy's Github Stats" src="https://github-readme-stats.vercel.app/api?username=NourEldinMoustafa&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/NourEldinMoustafa/github-readme-stats"><img alt="NourEldinMoustafa's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourEldinMoustafa&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -83,10 +84,8 @@ graph TD;
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/noureldin-moustafa-749542233/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/iosnoureldin"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/iosnoureldinmoustafa/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.youtube.com/channel/UCuWk-O1HwRd1f5qu4P64HbQ"><img src="https://img.icons8.com/color/48/000000/youtube-play.png"/></a>
+<a href = "linkedin.com/in/ahmed-hamdy-al-kashky-15b13695/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/ahmedovich19"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
 
