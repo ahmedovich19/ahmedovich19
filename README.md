@@ -96,6 +96,6 @@ graph TD;
 
 ## ❤ Views and Followers
 <a href="https://github.com/NourEldinMoustafa/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=SubhamRaoniar28">
+    <img src="https://komarev.com/ghpvc/?username=ahmedovich19">
 </a>
-<a href="https://github.com/ahmedovich19?tab=followers"><img src="https://img.shields.io/github/followers/SubhamRaoniar28?label=Followers&style=social" alt="GitHub Badge"></a>
+<a href="https://github.com/ahmedovich19?tab=followers"><img src="https://img.shields.io/github/followers/ahmedovich19?label=Followers&style=social" alt="GitHub Badge"></a>
