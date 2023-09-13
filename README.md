@@ -29,7 +29,7 @@ graph TD;
 
 - ⚡ Fun fact **chess player.**
 
--  ![GitHub Contributors Image](https://contrib.rocks/image?repo=ahmedovich19/github-readme-streak-stats)
+-  ![GitHub Contributors Image](https://contrib.rocks/image?repo=NourEldinMostafa/github-readme-streak-stats)
 
 ## 🚀 Languages and Tools:
 
