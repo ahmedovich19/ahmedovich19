@@ -15,10 +15,8 @@ perfect.
 - 🌱 I’m currently learning :
 ```mermaid
 graph TD;
-    MachineLearning--> DeepLearning ;
-    MachineLearning--> ImageProcessing ;
-    DeepLearning--> ComputerVision ;
-    ImageProcessing--> ComputerVision ;
+    ReactNative--> javascript ;
+  
 
 ```
 - 👯 I’m looking to collaborate on **Mobile Applications Projects**
