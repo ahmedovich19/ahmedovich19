@@ -3,12 +3,12 @@
 <a href="#"><img width="30%" height="auto" src="https://i.imgur.com/fCrmHuL.png " height="90px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Ahmed Hamdy</h1>
-<h3 align="center">I'm an  Ai engineer,Web developer.</h3>
+<h3 align="center">I'm an Mobile Application Developer.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I am a highly motivated Ai Engineer and Web Developer who has a track record of success creating apps that are both well-received and 
+- 🔭 I am a highly motivated Mobile Application Developer who has a track record of success creating apps that are both well-received and 
 commercially viable. Skilled with working as a team and incorporating input into projects. Ability to always look for ways to improve upon an already existing apps to keep people enjoying it. Strong eye for detail and tenacity to never quit on something until it is absolutely 
 perfect.
 
@@ -21,7 +21,7 @@ graph TD;
     ImageProcessing--> ComputerVision ;
 
 ```
-- 👯 I’m looking to collaborate on **Machine learning and Web Developments Projects**
+- 👯 I’m looking to collaborate on **Mobile Applications Projects**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio]([https://github.com/ahmedovich19](https://github.com/ahmedovich19))**
 
