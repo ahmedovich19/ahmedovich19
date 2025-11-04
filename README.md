@@ -15,10 +15,10 @@ perfect.
 - 🌱 I’m currently learning :
 ```mermaid
 graph TD;
-    Mopbile Applications development--> React native ;
-    Mopbile Applications development--> Android development ;
-    React native--> Javscript ;
-    Android development--> Kotlin ;
+    MopbileApplicationsDevelopment --> Reactnative ;
+    MopbileApplicationsDevelopment --> AndroidDevelopment ;
+    ReactNative--> Javscript ;
+    AndroidDevelopment--> Kotlin ;
   
 
 ```
