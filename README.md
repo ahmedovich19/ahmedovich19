@@ -15,7 +15,7 @@ perfect.
 - 🌱 I’m currently learning :
 ```mermaid
 graph TD;
-    MopbileApplicationsDevelopment --> Reactnative ;
+    MopbileApplicationsDevelopment --> ReactNative ;
     MopbileApplicationsDevelopment --> AndroidDevelopment ;
     ReactNative--> Javscript ;
     AndroidDevelopment--> Kotlin ;
