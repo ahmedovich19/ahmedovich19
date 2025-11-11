@@ -35,6 +35,8 @@ graph TD;
 ## 🚀 Languages and Tools:
 
 <p align="left">
+    <a href="https://reactnative.dev" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
+    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=108784&format=png" width="48" height="48"/> </a>
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
     <a href="https://numpy.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/numpy.png"/> </a> 
     <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a>    
@@ -49,7 +51,6 @@ graph TD;
     <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://www.javascript.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=108784&format=png" width="48" height="48"/> </a>
     <a href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" width="48" height="48"/> </a> 
     <a  href="https://vuejs.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png" width="48" height="48"/> </a> 
     <a  href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png" width="48" height="48"/> </a> 
