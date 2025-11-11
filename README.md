@@ -52,7 +52,6 @@ graph TD;
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
     <a href="https://www.w3schools.com/python/default.asp" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://jquery.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-jquery-8-1175153.png" width="48" height="48"/> </a> 
-    <a  href="https://vuejs.org/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-vuejs-1175052.png" width="48" height="48"/> </a> 
     <a  href="https://getbootstrap.com/" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/free-bootstrap-6-1175203.png" width="48" height="48"/> </a> 
     <a href="https://www.php.net/" target="_blank"> <img src="https://cdn.iconscout.com/icon/premium/png-256-thumb/php-2752101-2284918.png"width="48" height="48"/> </a> 
     <a href="https://wordpress.com/" target="_blank"> <img src="https://img.icons8.com/?size=256&id=13664&format=png" width="48" height="48"/> </a>
